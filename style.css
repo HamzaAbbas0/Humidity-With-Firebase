@@ -1,0 +1,39 @@
+#head1{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px;
+}
+#dv1{
+    
+    text-align: center;
+    margin-top: 70px; 
+}
+#txt1{
+font-weight: bolder;
+}
+#dv2{
+    
+    text-align: center;
+    margin-top: 50px; 
+    
+}
+#btn1{
+    font-weight: bolder;
+}
+#btn2{
+    font-weight: bolder;
+}
+#txt2{
+    font-weight: bolder;
+   margin-top: -30px;
+   margin-left: -350px;
+    font-size: 20px;
+}
+#input1{
+    border: solid 3px red;
+    
+}
+#dv3{
+    text-align: center;
+    margin-left: 100px;
+}
